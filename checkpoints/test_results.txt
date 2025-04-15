@@ -1,0 +1,8 @@
+original: 64.01%
+horizontal_flip: 68.79%
+vertical_flip: 61.48%
+rotation_45: 62.98%
+rotation_90: 58.08%
+color_jitter: 64.41%
+grayscale: 60.74%
+random_crop: 60.83%
